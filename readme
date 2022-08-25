@@ -7,6 +7,7 @@ Built with React, Express & MongoDB
 6. Run npm install and after installation, run "npm start" (nodemon)
 
 
+ATT GÖRA 
 -------BACKEND ----
 1. Express Server [x]
 2. Mongo Atlas [x]
@@ -19,16 +20,17 @@ Built with React, Express & MongoDB
     -Update [X]
     -Delete [x]
 ]
+
 6. Controller för struktur om det finns tid []
 
 ----------- FRONTEND ---------
-1. React-app [x]
-2. En komponent för formulär och en för att lista alla artiklar [/]
+1. Installera React-app [x]
+2. En komponent för formulär []
+   En komponent för Artiklar [x]
 3. Koppla ihop frontend med backend [/]
 4. formulär för att skapa en artikel [x]
 5. Skapa ett kort för att lista alla artiklar [x]
 6. Ta bort artikel [x]
-
 7. Uppdatera artikel []
 8. Trycka på artikel för att se hela och redigera den []
 9. Flytta ut funktioner till egna sidor []
