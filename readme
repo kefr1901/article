@@ -1,3 +1,12 @@
+Built with React, Express & MongoDB
+1. Open terminal in root folder 
+2. Navigate to /client
+3. Run "npm install" and after installation, run "npm start"
+4. Open another terminal window
+5. Navigate to /server
+6. Run npm install and after installation, run "npm start" (nodemon)
+
+
 -------BACKEND ----
 1. Express Server [x]
 2. Mongo Atlas [x]
