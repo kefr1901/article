@@ -51,9 +51,7 @@ router.patch("/:id", async (req, res) => {
 
 //// DELETE articles /////
 router.delete("/:id", (req, res) => {
-  //console.log("kommer in i delete");
   const _id = req.params.id;
-  //console.log(_id);
   console.log(mongoose.Types.ObjectId.isValid(_id));
 
   articleModel.findByIdAndDelete(_id)

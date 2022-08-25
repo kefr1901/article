@@ -81,7 +81,7 @@ const Article = () => {
   
     return (
       <>
-        <form>
+        <form className="">
           <div className="form-group ">
             <h1 className="text-center">Create a new article</h1>
             <label htmlFor="title">Title</label>
