@@ -1,0 +1,9 @@
+POST http://localhost:5000/
+content-type: application/json
+
+{
+    "title": "test",
+    "description": "test",
+    "body": "test",
+    "author": "kevin"
+}
